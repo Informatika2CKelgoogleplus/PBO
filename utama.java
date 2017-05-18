@@ -87,6 +87,6 @@ public class utama {
 	   		System.out.println("");
 	    
 	    HashMap<String, utama> hshmp2 = new HashMap<>();
-	    	hshmp2.put("palui2", new utama("Nama  : PALUI2"+"\nEmail  : palui2@gmail.com"));
+	    	hshmp2.put("palui2", new utama("Nama  : PALUI2"+"\nEmail  : palui2@gmail.com"));//asdf
 	}
 }
